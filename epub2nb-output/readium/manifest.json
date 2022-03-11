@@ -1,0 +1,279 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Jak jsem potkal ryby",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Ota Pavel",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2022-03-11T11:14:00.981Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_031.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/jak_jsem_p_idstyles.css"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image001_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/obalka_jak_jsem_potkal__fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+    }
+  ],
+  "toc": [
+    {
+      "title": "DĚTSTVÍ",
+      "children": [
+        {
+          "title": "Koncert",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_006.xhtml#toc_marker-1-1"
+        },
+        {
+          "title": "Černá štika",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_007.xhtml#toc_marker-1-2"
+        },
+        {
+          "title": "Moje první ryba",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_008.xhtml#toc_marker-1-3"
+        },
+        {
+          "title": "Souboj o štiky",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_009.xhtml#toc_marker-1-4"
+        },
+        {
+          "title": "Pod Šímovic skálou",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_010.xhtml#toc_marker-1-5"
+        },
+        {
+          "title": "Jak jsme s tatínkem servírovali úhořům",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_011.xhtml#toc_marker-1-6"
+        },
+        {
+          "title": "Bílé hřiby",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_012.xhtml#toc_marker-1-7"
+        },
+        {
+          "title": "Můžou tě i zabít",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_013.xhtml#toc_marker-1-8"
+        },
+        {
+          "title": "Dlouhá míle",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_014.xhtml#toc_marker-1-9"
+        }
+      ],
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_005.xhtml#toc_marker-1"
+    },
+    {
+      "title": "ODVÁŽNÝ MLADÝ MUŽ",
+      "children": [
+        {
+          "title": "U Prošků po válce",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_016.xhtml#toc_marker-2-1"
+        },
+        {
+          "title": "Malý pstruh",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_017.xhtml#toc_marker-2-2"
+        },
+        {
+          "title": "Dlouhý Honza",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_018.xhtml#toc_marker-2-3"
+        },
+        {
+          "title": "S ponorkou na ryby",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_019.xhtml#toc_marker-2-4"
+        },
+        {
+          "title": "Palamidy",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_020.xhtml#toc_marker-2-5"
+        }
+      ],
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_015.xhtml#toc_marker-2"
+    },
+    {
+      "title": "NÁVRATY",
+      "children": [
+        {
+          "title": "Pumprdentlich",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_022.xhtml#toc_marker-3-1"
+        },
+        {
+          "title": "Žehlička",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_023.xhtml#toc_marker-3-2"
+        },
+        {
+          "title": "Přijeď, báječně si zachytáš!",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_024.xhtml#toc_marker-3-3"
+        },
+        {
+          "title": "Zloděj prutů",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_025.xhtml#toc_marker-3-4"
+        },
+        {
+          "title": "Jak jsme zahynuli na rybách",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_026.xhtml#toc_marker-3-5"
+        },
+        {
+          "title": "Jak jsme nezahynuli na rybách",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_027.xhtml#toc_marker-3-6"
+        },
+        {
+          "title": "Boty Made in Italy",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_028.xhtml#toc_marker-3-7"
+        },
+        {
+          "title": "Zlatí úhoři",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_029.xhtml#toc_marker-3-8"
+        },
+        {
+          "title": "Epilog",
+          "href": "OEBPS/Text/jak_jsem_potkal_ryby_030.xhtml#toc_marker-3-9"
+        }
+      ],
+      "href": "OEBPS/Text/jak_jsem_potkal_ryby_021.xhtml#toc_marker-3"
+    }
+  ]
+}
