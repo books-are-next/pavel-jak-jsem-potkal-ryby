@@ -1,0 +1,648 @@
+{
+  "author": "Ota Pavel",
+  "contenttype": "prose",
+  "identifier": "pavel-jak-jsem-potkal-ryby-f307b14",
+  "languagecode": "cs",
+  "modified": "2022-03-11T11:14:00.981Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Jak jsem potkal ryby",
+  "revision": "f307b14",
+  "generatedAt": {
+    "date": "Fri Mar 11 2022 11:22:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1646997767327
+  },
+  "documents": [
+    {
+      "title": "Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "jak_jsem_potkal_ryby_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "jak_jsem_potkal_ryby_001.html",
+      "next": "jak_jsem_potkal_ryby_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_003.html",
+      "words": 6,
+      "chars": 29,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "jak_jsem_potkal_ryby_002.html",
+      "next": "jak_jsem_potkal_ryby_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_004.html",
+      "words": 95,
+      "chars": 609,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "jak_jsem_potkal_ryby_003.html",
+      "next": "jak_jsem_potkal_ryby_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DĚTSTVÍ • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_005.html",
+      "words": 1,
+      "chars": 7,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 4,
+      "prev": "jak_jsem_potkal_ryby_004.html",
+      "next": "jak_jsem_potkal_ryby_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DĚTSTVÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Koncert • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_006.html",
+      "words": 552,
+      "chars": 3214,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 5,
+      "prev": "jak_jsem_potkal_ryby_005.html",
+      "next": "jak_jsem_potkal_ryby_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Koncert",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Černá štika • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_007.html",
+      "words": 336,
+      "chars": 1950,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 6,
+      "prev": "jak_jsem_potkal_ryby_006.html",
+      "next": "jak_jsem_potkal_ryby_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Černá štika",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Moje první ryba • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_008.html",
+      "words": 738,
+      "chars": 4178,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 7,
+      "prev": "jak_jsem_potkal_ryby_007.html",
+      "next": "jak_jsem_potkal_ryby_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Moje první ryba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Souboj o štiky • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_009.html",
+      "words": 561,
+      "chars": 3240,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 8,
+      "prev": "jak_jsem_potkal_ryby_008.html",
+      "next": "jak_jsem_potkal_ryby_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Souboj o štiky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pod Šímovic skálou • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_010.html",
+      "words": 611,
+      "chars": 3537,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 9,
+      "prev": "jak_jsem_potkal_ryby_009.html",
+      "next": "jak_jsem_potkal_ryby_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pod Šímovic skálou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak jsme s tatínkem servírovali úhořům • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_011.html",
+      "words": 1066,
+      "chars": 5955,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 10,
+      "prev": "jak_jsem_potkal_ryby_010.html",
+      "next": "jak_jsem_potkal_ryby_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak jsme s tatínkem servírovali úhořům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bílé hřiby • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_012.html",
+      "words": 594,
+      "chars": 3438,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 11,
+      "prev": "jak_jsem_potkal_ryby_011.html",
+      "next": "jak_jsem_potkal_ryby_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bílé hřiby",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Můžou tě i zabít • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_013.html",
+      "words": 2361,
+      "chars": 13446,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 12,
+      "prev": "jak_jsem_potkal_ryby_012.html",
+      "next": "jak_jsem_potkal_ryby_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Můžou tě i zabít",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dlouhá míle • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_014.html",
+      "words": 2623,
+      "chars": 14867,
+      "ideas": 72,
+      "role": "chapter",
+      "order": 13,
+      "prev": "jak_jsem_potkal_ryby_013.html",
+      "next": "jak_jsem_potkal_ryby_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dlouhá míle",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ODVÁŽNÝ MLADÝ MUŽ • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_015.html",
+      "words": 3,
+      "chars": 17,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 14,
+      "prev": "jak_jsem_potkal_ryby_014.html",
+      "next": "jak_jsem_potkal_ryby_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ODVÁŽNÝ MLADÝ MUŽ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "U Prošků po válce • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_016.html",
+      "words": 642,
+      "chars": 3582,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 15,
+      "prev": "jak_jsem_potkal_ryby_015.html",
+      "next": "jak_jsem_potkal_ryby_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "U Prošků po válce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Malý pstruh • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_017.html",
+      "words": 984,
+      "chars": 5550,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 16,
+      "prev": "jak_jsem_potkal_ryby_016.html",
+      "next": "jak_jsem_potkal_ryby_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Malý pstruh",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dlouhý Honza • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_018.html",
+      "words": 5651,
+      "chars": 32332,
+      "ideas": 157,
+      "role": "chapter",
+      "order": 17,
+      "prev": "jak_jsem_potkal_ryby_017.html",
+      "next": "jak_jsem_potkal_ryby_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dlouhý Honza",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "S ponorkou na ryby • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_019.html",
+      "words": 1904,
+      "chars": 11281,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 18,
+      "prev": "jak_jsem_potkal_ryby_018.html",
+      "next": "jak_jsem_potkal_ryby_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "S ponorkou na ryby",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Palamidy • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_020.html",
+      "words": 1741,
+      "chars": 9877,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 19,
+      "prev": "jak_jsem_potkal_ryby_019.html",
+      "next": "jak_jsem_potkal_ryby_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Palamidy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "NÁVRATY • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_021.html",
+      "words": 1,
+      "chars": 7,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 20,
+      "prev": "jak_jsem_potkal_ryby_020.html",
+      "next": "jak_jsem_potkal_ryby_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "NÁVRATY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pumprdentlich • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_022.html",
+      "words": 917,
+      "chars": 5398,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 21,
+      "prev": "jak_jsem_potkal_ryby_021.html",
+      "next": "jak_jsem_potkal_ryby_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pumprdentlich",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žehlička • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_023.html",
+      "words": 1262,
+      "chars": 7319,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 22,
+      "prev": "jak_jsem_potkal_ryby_022.html",
+      "next": "jak_jsem_potkal_ryby_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žehlička",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přijeď, báječně si zachytáš! • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_024.html",
+      "words": 578,
+      "chars": 3184,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 23,
+      "prev": "jak_jsem_potkal_ryby_023.html",
+      "next": "jak_jsem_potkal_ryby_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přijeď, báječně si zachytáš!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zloděj prutů • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_025.html",
+      "words": 924,
+      "chars": 4941,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 24,
+      "prev": "jak_jsem_potkal_ryby_024.html",
+      "next": "jak_jsem_potkal_ryby_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zloděj prutů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak jsme zahynuli na rybách • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_026.html",
+      "words": 1849,
+      "chars": 10468,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 25,
+      "prev": "jak_jsem_potkal_ryby_025.html",
+      "next": "jak_jsem_potkal_ryby_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak jsme zahynuli na rybách",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak jsme nezahynuli na rybách • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_027.html",
+      "words": 612,
+      "chars": 3481,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 26,
+      "prev": "jak_jsem_potkal_ryby_026.html",
+      "next": "jak_jsem_potkal_ryby_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak jsme nezahynuli na rybách",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Boty Made in Italy • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_028.html",
+      "words": 903,
+      "chars": 5158,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 27,
+      "prev": "jak_jsem_potkal_ryby_027.html",
+      "next": "jak_jsem_potkal_ryby_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Boty Made in Italy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zlatí úhoři • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_029.html",
+      "words": 3399,
+      "chars": 19452,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 28,
+      "prev": "jak_jsem_potkal_ryby_028.html",
+      "next": "jak_jsem_potkal_ryby_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zlatí úhoři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Epilog • Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_030.html",
+      "words": 810,
+      "chars": 4581,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 29,
+      "prev": "jak_jsem_potkal_ryby_029.html",
+      "next": "jak_jsem_potkal_ryby_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Epilog",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak jsem potkal ryby",
+      "file": "jak_jsem_potkal_ryby_031.html",
+      "words": 47,
+      "chars": 291,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 30,
+      "prev": "jak_jsem_potkal_ryby_030.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 31778,
+      "chars": 181423,
+      "ideas": 935
+    },
+    "chapters": {
+      "words": 31771,
+      "chars": 181389,
+      "ideas": 932
+    }
+  }
+}
