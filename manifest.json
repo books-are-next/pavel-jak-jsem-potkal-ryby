@@ -1,37 +1,19 @@
 {
   "author": "Ota Pavel",
   "contenttype": "prose",
-  "identifier": "pavel-jak-jsem-potkal-ryby-f307b14",
+  "edition": "beletrie",
+  "identifier": "pavel-jak-jsem-potkal-ryby-2b90c59",
   "languagecode": "cs",
   "modified": "2022-03-11T11:14:00.981Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Jak jsem potkal ryby",
-  "revision": "f307b14",
+  "revision": "2b90c59",
   "generatedAt": {
-    "date": "Fri Mar 11 2022 11:22:47 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1646997767327
+    "date": "Mon Mar 14 2022 10:03:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647252228909
   },
   "documents": [
-    {
-      "title": "Jak jsem potkal ryby",
-      "file": "jak_jsem_potkal_ryby_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "jak_jsem_potkal_ryby_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Jak jsem potkal ryby",
       "file": "jak_jsem_potkal_ryby_002.html",
@@ -39,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "jak_jsem_potkal_ryby_001.html",
-      "next": "jak_jsem_potkal_ryby_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Jak jsem potkal ryby",
-      "file": "jak_jsem_potkal_ryby_003.html",
-      "words": 6,
-      "chars": 29,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "jak_jsem_potkal_ryby_002.html",
-      "next": "jak_jsem_potkal_ryby_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Jak jsem potkal ryby",
-      "file": "jak_jsem_potkal_ryby_004.html",
-      "words": 95,
-      "chars": 609,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "jak_jsem_potkal_ryby_003.html",
+      "order": 0,
+      "prev": null,
       "next": "jak_jsem_potkal_ryby_005.html",
       "toc": [
         {
@@ -99,8 +41,8 @@
       "chars": 7,
       "ideas": 1,
       "role": "chapter",
-      "order": 4,
-      "prev": "jak_jsem_potkal_ryby_004.html",
+      "order": 1,
+      "prev": "jak_jsem_potkal_ryby_002.html",
       "next": "jak_jsem_potkal_ryby_006.html",
       "toc": [
         {
@@ -119,7 +61,7 @@
       "chars": 3214,
       "ideas": 12,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "jak_jsem_potkal_ryby_005.html",
       "next": "jak_jsem_potkal_ryby_007.html",
       "toc": [
@@ -139,7 +81,7 @@
       "chars": 1950,
       "ideas": 7,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "jak_jsem_potkal_ryby_006.html",
       "next": "jak_jsem_potkal_ryby_008.html",
       "toc": [
@@ -159,7 +101,7 @@
       "chars": 4178,
       "ideas": 21,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "jak_jsem_potkal_ryby_007.html",
       "next": "jak_jsem_potkal_ryby_009.html",
       "toc": [
@@ -179,7 +121,7 @@
       "chars": 3240,
       "ideas": 17,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "jak_jsem_potkal_ryby_008.html",
       "next": "jak_jsem_potkal_ryby_010.html",
       "toc": [
@@ -199,7 +141,7 @@
       "chars": 3537,
       "ideas": 22,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "jak_jsem_potkal_ryby_009.html",
       "next": "jak_jsem_potkal_ryby_011.html",
       "toc": [
@@ -219,7 +161,7 @@
       "chars": 5955,
       "ideas": 29,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "jak_jsem_potkal_ryby_010.html",
       "next": "jak_jsem_potkal_ryby_012.html",
       "toc": [
@@ -239,7 +181,7 @@
       "chars": 3438,
       "ideas": 33,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "jak_jsem_potkal_ryby_011.html",
       "next": "jak_jsem_potkal_ryby_013.html",
       "toc": [
@@ -259,7 +201,7 @@
       "chars": 13446,
       "ideas": 57,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "jak_jsem_potkal_ryby_012.html",
       "next": "jak_jsem_potkal_ryby_014.html",
       "toc": [
@@ -279,7 +221,7 @@
       "chars": 14867,
       "ideas": 72,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "jak_jsem_potkal_ryby_013.html",
       "next": "jak_jsem_potkal_ryby_015.html",
       "toc": [
@@ -299,7 +241,7 @@
       "chars": 17,
       "ideas": 1,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "jak_jsem_potkal_ryby_014.html",
       "next": "jak_jsem_potkal_ryby_016.html",
       "toc": [
@@ -319,7 +261,7 @@
       "chars": 3582,
       "ideas": 19,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "jak_jsem_potkal_ryby_015.html",
       "next": "jak_jsem_potkal_ryby_017.html",
       "toc": [
@@ -339,7 +281,7 @@
       "chars": 5550,
       "ideas": 30,
       "role": "chapter",
-      "order": 16,
+      "order": 13,
       "prev": "jak_jsem_potkal_ryby_016.html",
       "next": "jak_jsem_potkal_ryby_018.html",
       "toc": [
@@ -359,7 +301,7 @@
       "chars": 32332,
       "ideas": 157,
       "role": "chapter",
-      "order": 17,
+      "order": 14,
       "prev": "jak_jsem_potkal_ryby_017.html",
       "next": "jak_jsem_potkal_ryby_019.html",
       "toc": [
@@ -379,7 +321,7 @@
       "chars": 11281,
       "ideas": 50,
       "role": "chapter",
-      "order": 18,
+      "order": 15,
       "prev": "jak_jsem_potkal_ryby_018.html",
       "next": "jak_jsem_potkal_ryby_020.html",
       "toc": [
@@ -399,7 +341,7 @@
       "chars": 9877,
       "ideas": 31,
       "role": "chapter",
-      "order": 19,
+      "order": 16,
       "prev": "jak_jsem_potkal_ryby_019.html",
       "next": "jak_jsem_potkal_ryby_021.html",
       "toc": [
@@ -419,7 +361,7 @@
       "chars": 7,
       "ideas": 1,
       "role": "chapter",
-      "order": 20,
+      "order": 17,
       "prev": "jak_jsem_potkal_ryby_020.html",
       "next": "jak_jsem_potkal_ryby_022.html",
       "toc": [
@@ -439,7 +381,7 @@
       "chars": 5398,
       "ideas": 38,
       "role": "chapter",
-      "order": 21,
+      "order": 18,
       "prev": "jak_jsem_potkal_ryby_021.html",
       "next": "jak_jsem_potkal_ryby_023.html",
       "toc": [
@@ -459,7 +401,7 @@
       "chars": 7319,
       "ideas": 30,
       "role": "chapter",
-      "order": 22,
+      "order": 19,
       "prev": "jak_jsem_potkal_ryby_022.html",
       "next": "jak_jsem_potkal_ryby_024.html",
       "toc": [
@@ -479,7 +421,7 @@
       "chars": 3184,
       "ideas": 12,
       "role": "chapter",
-      "order": 23,
+      "order": 20,
       "prev": "jak_jsem_potkal_ryby_023.html",
       "next": "jak_jsem_potkal_ryby_025.html",
       "toc": [
@@ -499,7 +441,7 @@
       "chars": 4941,
       "ideas": 21,
       "role": "chapter",
-      "order": 24,
+      "order": 21,
       "prev": "jak_jsem_potkal_ryby_024.html",
       "next": "jak_jsem_potkal_ryby_026.html",
       "toc": [
@@ -519,7 +461,7 @@
       "chars": 10468,
       "ideas": 50,
       "role": "chapter",
-      "order": 25,
+      "order": 22,
       "prev": "jak_jsem_potkal_ryby_025.html",
       "next": "jak_jsem_potkal_ryby_027.html",
       "toc": [
@@ -539,7 +481,7 @@
       "chars": 3481,
       "ideas": 16,
       "role": "chapter",
-      "order": 26,
+      "order": 23,
       "prev": "jak_jsem_potkal_ryby_026.html",
       "next": "jak_jsem_potkal_ryby_028.html",
       "toc": [
@@ -559,7 +501,7 @@
       "chars": 5158,
       "ideas": 33,
       "role": "chapter",
-      "order": 27,
+      "order": 24,
       "prev": "jak_jsem_potkal_ryby_027.html",
       "next": "jak_jsem_potkal_ryby_029.html",
       "toc": [
@@ -579,7 +521,7 @@
       "chars": 19452,
       "ideas": 140,
       "role": "chapter",
-      "order": 28,
+      "order": 25,
       "prev": "jak_jsem_potkal_ryby_028.html",
       "next": "jak_jsem_potkal_ryby_030.html",
       "toc": [
@@ -599,9 +541,9 @@
       "chars": 4581,
       "ideas": 12,
       "role": "chapter",
-      "order": 29,
+      "order": 26,
       "prev": "jak_jsem_potkal_ryby_029.html",
-      "next": "jak_jsem_potkal_ryby_031.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -613,20 +555,20 @@
       ]
     },
     {
-      "title": "Jak jsem potkal ryby",
-      "file": "jak_jsem_potkal_ryby_031.html",
-      "words": 47,
-      "chars": 291,
-      "ideas": 11,
-      "role": "chapter",
-      "order": 30,
+      "title": "Tiráž • Jak jsem potkal ryby",
+      "file": "colophon.html",
+      "words": 149,
+      "chars": 934,
+      "ideas": 21,
+      "role": "colophon",
+      "order": null,
       "prev": "jak_jsem_potkal_ryby_030.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -635,14 +577,14 @@
   ],
   "totals": {
     "all": {
-      "words": 31778,
-      "chars": 181423,
-      "ideas": 935
+      "words": 31780,
+      "chars": 181434,
+      "ideas": 937
     },
     "chapters": {
-      "words": 31771,
-      "chars": 181389,
-      "ideas": 932
+      "words": 31623,
+      "chars": 180460,
+      "ideas": 912
     }
   }
 }

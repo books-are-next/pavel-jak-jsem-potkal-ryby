@@ -7,7 +7,9 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ota Pavel",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-11T11:14:00.981Z"
+      "modified": "2022-03-11T11:14:00.981Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola MLP-uroven1-cast ",
@@ -32,17 +34,19 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "jak_jsem_potkal_ryby_001.md",
             "xhtml": "jak_jsem_potkal_ryby_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "jak_jsem_potkal_ryby_002.md",
@@ -50,32 +54,35 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "jak_jsem_potkal_ryby_003.md",
             "xhtml": "jak_jsem_potkal_ryby_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "jak_jsem_potkal_ryby_004.md",
             "xhtml": "jak_jsem_potkal_ryby_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "jak_jsem_potkal_ryby_005.md",
@@ -86,7 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dětství"
           },
           {
             "filename": "jak_jsem_potkal_ryby_006.md",
@@ -97,7 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Koncert"
           },
           {
             "filename": "jak_jsem_potkal_ryby_007.md",
@@ -108,7 +119,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Černá štika"
           },
           {
             "filename": "jak_jsem_potkal_ryby_008.md",
@@ -119,7 +132,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Moje první ryba"
           },
           {
             "filename": "jak_jsem_potkal_ryby_009.md",
@@ -130,7 +145,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Souboj o štiky"
           },
           {
             "filename": "jak_jsem_potkal_ryby_010.md",
@@ -141,7 +158,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pod Šímovic skálou"
           },
           {
             "filename": "jak_jsem_potkal_ryby_011.md",
@@ -152,7 +171,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jak jsme s tatínkem servírovali úhořům"
           },
           {
             "filename": "jak_jsem_potkal_ryby_012.md",
@@ -163,7 +184,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Bílé hřiby"
           },
           {
             "filename": "jak_jsem_potkal_ryby_013.md",
@@ -174,7 +197,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Můžou tě i zabít"
           },
           {
             "filename": "jak_jsem_potkal_ryby_014.md",
@@ -185,7 +210,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dlouhá míle"
           },
           {
             "filename": "jak_jsem_potkal_ryby_015.md",
@@ -196,7 +223,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Odvážný mladý muž"
           },
           {
             "filename": "jak_jsem_potkal_ryby_016.md",
@@ -207,7 +236,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "U Prošků po válce"
           },
           {
             "filename": "jak_jsem_potkal_ryby_017.md",
@@ -218,7 +249,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Malý pstruh"
           },
           {
             "filename": "jak_jsem_potkal_ryby_018.md",
@@ -229,7 +262,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dlouhý Honza"
           },
           {
             "filename": "jak_jsem_potkal_ryby_019.md",
@@ -240,7 +275,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "S ponorkou na ryby"
           },
           {
             "filename": "jak_jsem_potkal_ryby_020.md",
@@ -251,7 +288,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Palamidy"
           },
           {
             "filename": "jak_jsem_potkal_ryby_021.md",
@@ -262,7 +301,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Návraty"
           },
           {
             "filename": "jak_jsem_potkal_ryby_022.md",
@@ -273,7 +314,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pumprdentlich"
           },
           {
             "filename": "jak_jsem_potkal_ryby_023.md",
@@ -284,7 +327,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Žehlička"
           },
           {
             "filename": "jak_jsem_potkal_ryby_024.md",
@@ -295,7 +340,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Přijeď, báječně si zachytáš!"
           },
           {
             "filename": "jak_jsem_potkal_ryby_025.md",
@@ -306,7 +353,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zloděj prutů"
           },
           {
             "filename": "jak_jsem_potkal_ryby_026.md",
@@ -317,7 +366,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jak jsme zahynuli na rybách"
           },
           {
             "filename": "jak_jsem_potkal_ryby_027.md",
@@ -328,7 +379,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jak jsme nezahynuli na rybách"
           },
           {
             "filename": "jak_jsem_potkal_ryby_028.md",
@@ -339,7 +392,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Boty Made in Italy"
           },
           {
             "filename": "jak_jsem_potkal_ryby_029.md",
@@ -350,7 +405,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zlatí úhoři"
           },
           {
             "filename": "jak_jsem_potkal_ryby_030.md",
@@ -361,18 +418,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Epilog"
           },
           {
             "filename": "jak_jsem_potkal_ryby_031.md",
             "xhtml": "jak_jsem_potkal_ryby_031.xhtml",
             "id": 30,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -385,7 +445,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ota Pavel",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-11T11:21:47.925Z"
+      "modified": "2022-03-14T10:02:58.033Z"
     },
     "chapters": [
       {
@@ -639,6 +699,6 @@
       "user": "books-are-next",
       "repo": "pavel-jak-jsem-potkal-ryby"
     },
-    "generatedAt": 1646997708410
+    "generatedAt": 1647252178597
   }
 }
