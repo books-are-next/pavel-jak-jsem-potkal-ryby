@@ -52,7 +52,7 @@
             "filename": "jak_jsem_potkal_ryby_002.md",
             "xhtml": "jak_jsem_potkal_ryby_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -436,8 +436,7 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -445,7 +444,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ota Pavel",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-14T10:08:56.401Z"
+      "modified": "2020-04-27T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -699,6 +698,6 @@
       "user": "books-are-next",
       "repo": "pavel-jak-jsem-potkal-ryby"
     },
-    "generatedAt": 1647252536958
+    "generatedAt": 1652351493234
   }
 }

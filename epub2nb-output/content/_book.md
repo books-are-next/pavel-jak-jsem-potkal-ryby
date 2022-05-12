@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - jak_jsem_potkal_ryby_002.html
+  - promo.html
   - jak_jsem_potkal_ryby_005.html
   - jak_jsem_potkal_ryby_006.html
   - jak_jsem_potkal_ryby_007.html
