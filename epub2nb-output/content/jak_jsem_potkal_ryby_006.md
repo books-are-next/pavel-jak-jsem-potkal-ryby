@@ -3,8 +3,6 @@ title: Koncert
 contentType: prose
 ---
 
-  
-
 Pro každého rybáře je vůbec nejlepší začít si něco s rybami už jako holka nebo kluk. Když ho zasvětí do tajů rybařiny táta, strejda nebo nějaký převozník. U nás to byl převozník Karel Prosek z Luhu pod Bránovem, který se postupně stal naším strejdou.
 
 Ten učil chytat nejen bratry Huga, Jirku a mě, ale také našeho povedeného tatínka. Strejda Prošek se v Berounce asi narodil jako vodníci a do Luhu přišel s velkou vodou. Měl krásný knír jak dragouni a zvučný hlas a taky pěknou postavu. Dovedl všechno na světě. Orat a sít, dojit krávy, vařit uhlířinu, najít hřiby a křemenáče v době, kdy nerostly, převážet za velké vody, plést košíky, ulovit srnce, zachránit lidi i promrzlou zvěř, dát hlupákům přes hubu, uměl se smát. Za veliké vody převážel párkrát porodní asistentku Flýbertovou s jejím nepostradatelným kufříkem. A taky věděl, jak na ryby. Napichoval je z lodi za měsíčních nocí na vidlice zvané grondle, stavěl jim do cesty vrše, nahazoval šňůry a navenek je lovil na prut jak pán.

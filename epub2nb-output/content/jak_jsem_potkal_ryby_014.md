@@ -3,8 +3,6 @@ title: Dlouhá míle
 contentType: prose
 ---
 
-  
-
 Konec války byl ve vzduchu jako naděje. Oba buštěhradské rybníky slovili a kapry snědli. Nic už do rybníků nedali, protože nic neměli. Kapří násada došla, tak jako docházela munice. A snad už to bylo každému jedno, na pořad dne nastupovaly jiné starosti. Jenom mně ryby chyběly. Bloumal jsem krajem a hledal potůčky. Tekly tu pomalu skrz černozemní step, nebyly stříbrné jako stužky a náhrdelníky královny, ale byly tmavé jako kladenská obloha, anebo dokonce černé jak uhlí z Franšachty. Jen v některých plavaly ryby. Ale ryby to byly za groš kudla. Řízečci a piskoříci malí. Takové rybičky, jaké se jedí syrové, když je hodně velký hlad, anebo jaké chroupali zlatokopové v Londonových povídkách. Stříbrné rybky běličky jak pocukrovaná pozlátka na vánoční stromek. Občas byli pod travnatými břehy ráčci jak mořské krevety. Třepali ocásky a durdili se na mě, když jsem je vytahoval z jejich mělkých děr. Nebylo tu nic pořádného k snědku, bylo to jenom velké akvárium, jehož stěny tvořily místo skleněných tabulí ze dvou stran břehy, dole písek a nahoře nebe. A kolem dokola kvetly pomněnky a říkaly vzpomínej.
 
 Vzpomínal jsem na brášku Huga a brášku Jirku. Spali jsme dřív v jedné studené místnosti ve dvou postelích. Jirku jsem musel každý večer drbat na zádech, on jinak nemohl usnout. Dával mi za to korunu.
@@ -23,6 +21,8 @@ My dosud žijeme tady. Maminka. Já. Proto jdu do mlynářského rybníka pro ka
 
 Moc jsem se těšil do mlýna. Byl to v mé mysli pohádkový mlýn, co v něm bydlí čerti Pacufráci. Vypravoval jsem se týdny, než jsem vyšel, a když jsem vyšel, tak jsem si broukal tu, co mě ji naučila maminka:
 
+  
+
 _Po potoce chodila,  
 drobné ryby lovila.  
 Drobné ryby rybářům,  
@@ -30,10 +30,16 @@ hezké holky mlynářům.
 Sládkům ještě hezčejší,  
 to jsou hoši pyšnější._
 
+  
+
 Vykračoval jsem si nahoru k zámku a po kraji lidických polí. Dole, kde stávaly Lidice, nastoupila do práce německá Pracovní fronta a zpívala velice zvučně a přesvědčivě svou hymnu:
+
+  
 
 _Wir sind die Jugend  
 mit Hacke und Spaten._
+
+  
 
 Motykou a rýčem tu převraceli zemi, aby ji ani Stvořitel nepoznal. Rybník, ke kterému jsem chodil s lidickými kluky, rozmetali dynamitem a vodu rozházeli do okolí stejně jako kostel. Potůček malý, co přitéká ze Hřebce, odvedli jinam. Z bílých hřbitovních mramorových kamenů udělali cestu. Šlapou po jménech a příjmeních lidí, kteří tu tiše spali, a zpívají. Teď zmlkli. Budou asi pracovat. Chystají dynamit, protože motykou a rýčem nelze vyhladit bílé vesnice ze světa.
 

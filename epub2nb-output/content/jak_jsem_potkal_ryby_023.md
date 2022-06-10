@@ -3,8 +3,6 @@ title: Žehlička
 contentType: prose
 ---
 
-  
-
 My bratři jsme taky trochu zestárli. Vypadaly nám první vlasy a objevily se vlasy bílé. Pryč byly doby, kdy jsme honili v řasách velkou černou štiku. Bráškové se vybouřili v mládí, oženili se, jak už to bývá, a vrátili se k rybám, což taky bývá. Jako by si uvědomili čínské přísloví:
 
 _Chceš-li být šťasten hodinu, tak se opij._

@@ -3,8 +3,6 @@ title: Boty Made in Italy
 contentType: prose
 ---
 
-  
-
 Já měl Emila moc rád a dlouho jsem mu sliboval, že ho vezmu na úhoře. Vzít někoho na úhoře, to znamenalo řetěz tajuplných zážitků. Lov v noci, neznámí dravci, o nichž tak málo víme, vynikající maso pro Emilka a jeho ženu. Emila jsem dlouho připravoval, asi jako kdybych ho měl vzít raketou na Měsíc.
 
 „Emile, ve čtvrtek fičíme,“ oznamoval jsem mu tajně a důvěrně, aby se k nám nepřifařil ještě nějaký známý. Chtěl jsem být s Emilem sám.
