@@ -3,8 +3,6 @@ title: Bílé hřiby
 contentType: prose
 ---
 
-  
-
 Šli jsme na roští. Křivoklátské lesy jsou hluboké, někteří lidé se v nich bojí. Každým okamžikem se mohou objevit na koních s luky zbojníci z Týřova. Hlavně tady jsme mohli potkat české udatné krále s jejich družinami. Poklona, pane králi, jsem z Luhu pod Bránovem. Prdelka mi říkají.
 
 Každou chvilku může člověk uslyšet lidský pláč anebo naříkání raněné zvěře. Může se objevit stádo divokých kanců anebo pověstný jelen s křížem mezi parohy.
@@ -13,17 +11,25 @@ Každou chvilku může člověk uslyšet lidský pláč anebo naříkání raně
 
 Scházeli jsme do údolí. Jirka se dal svým zvučným hlasem do zpěvu:
 
+  
+
 _Potkali mě myslivci,  
 vedli s sebou psy, psy, psy,  
 jeden dělal haf, haf, haf!  
 a ten druhej ňaf, ňaf, ňaf._
 
+  
+
 Při haf, haf, haf a zvláště při ňaf, ňaf, ňaf se všelijak natřásal a pitvořil. Přidali jsme se, byli jsme už na kraji lesa:
+
+  
 
 _Až já odtud povandruju,  
 dám si uzel na uzel:  
 to že jsem tě, má panenko,  
 tak brzičko omrzel._
+
+  
 
 Vtom zavolal Hugo:
 
@@ -58,6 +64,8 @@ Brzy nato jsme seděli v Luhu na lavičce a poslouchali v rádiu, jak bombard
 Zacpal jsem si uši a běžel jsem dolů Luhem. Zdálo se mi, že i tady slyším bomby. Už jsem je viděl padat. První zásah dostal sklep se štoudví s naloženými rybami. Štoudev praskla a ryby se vysypaly do bláta. Cák ho! Druhý zásah dostala lehká loď převozníka, prkna létala do vzduchu jako dřívka. Prásk ho! Dům u řeky se propadl a hořel. Nad řekou letěl veliký šedý Heinkel, v něm seděl smějící se pilot s bílou lebkou a s vyceněnými zuby. Letadlo mělo na křídlech černé kříže. Začalo vrhat pumy do řeky na mé ryby. K hladině vyplavala jejich mrtvá těla. Byla bílá jak bílá smuteční oznámení ve výkladních skříních a podobala se také velkým bílým hřibům s popraskanými hlavami.
 
 A na těch oznámeních stálo napsáno:
+
+  
 
 UŽ SEM NIKDY NEPŘIJEDEM.  
 SKONČIL DĚTSKÝ KARNEVAL.

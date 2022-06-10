@@ -3,8 +3,6 @@ title: Přijeď, báječně si zachytáš!
 contentType: prose
 ---
 
-  
-
 Bratr Hugo mi telefonoval: „Přijeď, báječně si zachytáš!“ Přestože pršelo, přemluvil jsem ženu, abychom za ním jeli do Zbečna na Berounku, i když jsem věděl, že je tam ryb málo. Mým hlavním argumentem proti ženě, proti větru a proti dešti bylo, že si konečně skvěle zachytáme a k večeři budou čerstvé ryby.
 
 „Možná kapříček, snad štika, dokonce candát!“

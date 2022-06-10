@@ -3,8 +3,6 @@ title: Dlouhý Honza
 contentType: prose
 ---
 
-  
-
 Nejkrásnější putování na světě je na kanoi. Lužnici a Vltavu jsem jel pětkrát, víckrát jsem to do svého onemocnění nestačil. Plout po řece je krásné a pro rybáře fantastické. Je to, jako když jíte čerstvý chleba s máslem a navrch namažete med. Prostě hodně požitků najednou. Jste na milované řece a chytáte každý den ryby. Zastavíte u těch nekrásnějších tůní a na nejpůvabnějších místech, kam se jiní rybáři nikdy nedostanou ani pěšky, natož motorovým vozítkem. Zanese vás tam voda. Stačí jen trochu pádlovat.
 
 A na pádlování jsme my grandi. To teda jo. Mým prvním parťákem byl Dlouhý Honza. Báječnej kluk, kudrnatý vlasy a chlupy na prsou, čahounský nohy jako hráč basketbalu a ruce – hornický lopaty. Strašně rád se řehnil a měl krásný hlas na zpívání. A ženy po něm šly daleko víc než po mně.
@@ -57,6 +55,8 @@ Rána jsou zde překrásná. Ráno je u řeky všechno hezké, protože den je�
 
 Dobrou ranní pohodu doplňuji zpěvem, který je pro Honzu převelikým utrpením. Zpívám falešně, ale tuze rád. Mám repertoár na celé hodiny. Oblíbil jsem si písničku ze spartakiády. Tančily a cvičily při ní děti barvy modré, žluté, červené a bílé a jmenovalo se to Zlatá brána:
 
+  
+
 _Tlusté myšky kocour honí,  
 tu je díra,  
 hopla do ní.  
@@ -68,6 +68,8 @@ a utíká před kocourem.
 teď vás, myšky, procvičí,  
 chachachá,  
 kočka strakatá._
+
+  
 
 Bylo to milé a taky naivně přihlouplé, trochu se to nerýmovalo, ale krásně se při tom pádlovalo, zvlášť když na celou řeku znělo to CHACHACHÁ. Dlouhý Honza se přemáhal a mlčel.
 
@@ -81,9 +83,13 @@ A to nevíme, že nás spatřil ze strážní věže komár. Ejhle, maso, bude 
 
 Otekly nám obličeje. Opuchly nám také ruce potřebné k pádlování. Už jsme nepluli. Na sebe jsme nemluvili. Vylezli jsme na břeh. A tehdy jsem chtěl porušit ticho a řekl jsem něco blbýho. Začali jsme se prát. Měl víc síly a dlouhé pracky. Hodil mě z břehu do Lužnice a poskakoval nahoře, smál se jak šílenec a řval:
 
+  
+
 _Teď vás, myšky, procvičí,  
 kočka strakatá.  
 CHACHACHÁ!_
+
+  
 
 Bál jsem se v těch chvílích o nás oba, protože jsem věděl, že to není žádná legrace. Pohádali se už mnozí sportovci, kteří nevyhráli, dali si přes hubu, a jiní se v krizových situacích dokonce pomátli.
 
@@ -143,9 +149,13 @@ Dlouhý Honza byl na kafe vysazenej, a tak lezl setsakra rychle. Pan Robejšek 
 
 Seděli jsme u stolku ze soušek a z prkýnek a pili jsme ten tmavý vonící mok, který jsme neměli celou věčnost. A mlčeli jsme, protože v takových chvílích se má mlčet, ty jsou tak slavnostní jako první pusa anebo první svatba. Před námi tekla líně Lužnice Ontario a kafe vonělo jak v Brazílii. A viděli jsme ebenová těla černochů na plantážích, jak sklízejí pro pana Robejška a pro dva mladé z keříků kávu. Věnoval jsem panu Robejškovi slaměný klobouk, aby mu slunce neupálilo hlavu, a pasovali jsme ho po vypití půlky becherovky na kafového rytíře. Vysypal nám z haltýře do kanoe všechny ryby a přidal nám dva obrázky Panenky Marie ze Svaté Hory, aby se nám cestou nic nestalo. Slzel, že nemůže jet s námi, ale to bylo jen tak. Byl na to místo zvyknutý. Když jsme těmi místy jeli o rok později, seděl na stejném místě, nehnul se ani o píď. A zase bušily a klapaly stroje a vonělo kafe a ebenoví Brazilci dělali na plantážích. A tak se to opakovalo. Sedí tam zřejmě podnes, našel si chytře flíček světa, kde byl šťastný, zatímco jiní doufají, že ten flíček budou mít na nebi.
 
+  
+
 _Chceš píseň severu znát,  
 chceš se mnou tiše naslouchat,  
 když táhne bílý losos peřejí…_
+
+  
 
 To zpívá, vážení, Dlouhý Honza. Má opravdu krásný hlas. Všem se líbí. Lidem, ptákům, možná i rybám.
 
@@ -155,8 +165,12 @@ Otrkali jsme se, jeden den sedí vzadu Honza a druhý den já. A počítáme j
 
 Řítíme se do šlajsen, které se jezdí málo anebo takřka vůbec ne. Řídíme se tím, co říkal Savrola o odvaze:
 
+  
+
 _Jste chtivý pověsti o své odvaze?  
 Musíte riskovat svůj život._
+
+  
 
 Vrháme se do nebezpečných šlajsen jako posedlí. Vlny nás zalijí, vyrazí nám pádla z rukou, vyhodí kanoi do luftu, jako by byla pírkem. Jsme pod vodou, voda nás zalyká. Topím se. Když se mi podaří dostat se ven z vířících zábalů a zpěněné vody, nevidím Honzu. Bleskově se nadýchnu. Voda mě stáhne zas dolů a čekám, až mě vyplivne. Blahořečím tomu, že jsem se tisíce hodin učil plavat a potápět. Nesmím propadnout panice. Voda mě konečně vyplivla. Mám hlavu nahoře a Dlouhý Honza tu zase není. Chce se mi brečet. Ale to je blbost. V takových chvílích člověk myslí především na záchranu. A na to, co se stane a jaké to bude mít následky. Honza tu není. A nejsou tu ani lidi, kteří by nám pomohli. Všechno je v hajzlu. Jeho matka, přísná jak metr, mě zabije. Vždyť sama o sobě říká: Já nejsem přísná, já jsem zlá! Budou mě vyslýchat, proč jsem mu nepomohl a kdo to zavinil. Jdu znovu pod vodu, a když vyplavu, jeho ksicht se zubí u mě. Křičí:
 
@@ -166,10 +180,14 @@ Zaplaťpámbu, Bože. Ukázalo se, že zatímco jeden byl nahoře, byl ten druh�
 
 U příštího jezu je výstraha:
 
+  
+
 16 UTONULÝCH VARUJE.  
 TENTO JEZ JE ZRÁDNÝ.  
 MY JSME TO ZAPLATILI  
 ŽIVOTEM.
+
+  
 
 A my do toho jdem ne proto, že to říkal pan Savrola, ale proto, že jsme mladí a blbí. Protože ještě nevíme, že odvaha se v životě prokazuje na jiných místech, než jsou zrádné jezy s šutry anebo s vystouplými břevny. Jdeme do toho proto, že jsme ještě nikdy nebyli mrtví. Že nevíme, co to znamená být mrtvý. Že to podceňujeme a že si z toho děláme legraci. Že přeceňujeme sebe a lichotíme si, jací jsme výborní plavci. Že nevěříme mrtvým. My jsme to přežili, a bylo to krásný. Ale byla to krása šílená. Chyběly tam naše matky, aby nám u nejzrádnějších jezů sundaly trenýrky, nařezaly na prdel a poslaly nás kolem po pěšině, kudy chodí děti s paní učitelkou hledat žluté stulíky.
 
@@ -275,15 +293,21 @@ Na břehu chytá rybář. Poznáváme v něm někdejšího vynikajícího běž
 
 Tak naposledy, chlapci, zpívejte s námi. Honza zpívá tím krásným hlasem a já tím falešným:
 
+  
+
 _Vstávej, Andulko!  
 snídani dávej,  
 a já musím plout:  
 šíf naloženej._
 
+  
+
 _Andulka vstala,  
 snídani dala,  
 a ještě mě k šífu  
 vyprovázela._
+
+  
 
 Loučíme se navždy s voraři, protože už je nikdy v životě neuvidíme, a tím i se starou Vltavou. Pádlujeme mlčky ku Praze po vodě, které se říká olej, poněvadž je stojatá. Teprve pod Zbraslaví zase proudí. Naposledy vychutnáváme pocit, kdy se loď houpá z vlny na vlnu a kdy příď slabě šustí. Slunce, ten velký prášek nebeských psychiatrů, je už za Petřínem.
 

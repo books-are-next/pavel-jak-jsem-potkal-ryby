@@ -3,8 +3,6 @@ title: Palamidy
 contentType: prose
 ---
 
-  
-
 Byl jsem zase u moře, tentokrát na spodku Evropy. U moře, kterému se říká bůhvíproč Černé, přestože je modré jako většina moří. Už jsem se oženil s Věrou, která byla pěkná, měla tělo jako manekýna a já ji měl rád. Dala mi syna, z kterého bude rybář. V tom synovi jsem se nemýlil. Na Věře bylo nejkrásnější, že jedla ráda ryby v denní i noční čas. To je vůbec největší štěstí, co může rybáře potkat. Žena mu nenadává, že je pořád u vody, a naopak ho budí, aby nelenil a ráno vstal. A místo fuseklí a kapesníků mi na Vánoce dávala třpytky a háčky, na které se nedalo chytat, protože tomu nerozuměla.
 
 A tak jsme spolu lítli k Černému moři přes hory a doly letadýlkem, které bylo na spadnutí, zvlášť když zafoukal vítr a zabouřkovalo moře.

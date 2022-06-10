@@ -3,8 +3,6 @@ title: Zlatí úhoři
 contentType: prose
 ---
 
-  
-
 Jednou jsem přivezl z Amsterodamu svazeček uzených úhoříků. Byli tencí jak raný chřest anebo vrbové proutky, a jelikož byli mladí, byli zlatí. Vzal jsem stužku a převázal s ní úhoříky. Koho jsem měl rád, tomu jsem pak podal zlatého úhoře. Na koho se nedostalo, ten nedostal nic.
 
 Uzeným úhořům jsme vždycky říkali doma zlatí, přestože nikdy takoví nebyli. Když byli velcí a prošli pecí, dostali barvu temných nocí a hlubokého mořského dna.
@@ -167,6 +165,8 @@ Tatínek přinesl dlouhý pergamen, který opálil svíčkou jak v nočním bar
 
 Prosím:
 
+  
+
 _Anglická paštika z úhoře_
 
 _Anglický úhoř_
@@ -250,6 +250,8 @@ _Vilémův úhoř_
 _Úhoř Villeroi_
 
 _Zadělávaný úhoř_
+
+  
 
 Tak a konečně jsem pochopil, proč plavou úhoři v noci a ještě po samém dně. Mají na ně spadeno nejlepší kuchaři a labužníci celého světa. Někdy za ně platí i zlatem.
 

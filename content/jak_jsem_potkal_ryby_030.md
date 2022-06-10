@@ -3,8 +3,6 @@ title: Epilog
 contentType: prose
 ---
 
-  
-
 Zbláznil jsem se na zimní olympiádě v Innsbrucku. Zatáhl se mi mozek, jako kdyby přišla mlha z Alp. Potkal jsem tam jednoho pána a pro mě to byl čert se vším všudy, měl kopyta, chlupy a rohy a staleté vykotlané zuby. Šel jsem pak zapálit do hor nad Innsbruck selské stavení. Přál jsem si, aby se rozsvítilo velké světlo a zahnalo mlhu. Když jsem vyváděl krávy a hřebce z chléva, aby neuhořeli, dorazila rakouská policie. Dali mi želízka a vedli mě do údolí. Nadával jsem jim, strhl jsem si boty a šel jsem sněhem bos jako Kristus, kterého vedou na kříž.
 
 Poslali mě přes Dvořiště pražským lékařům.

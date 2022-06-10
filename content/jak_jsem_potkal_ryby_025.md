@@ -3,8 +3,6 @@ title: Zloděj prutů
 contentType: prose
 ---
 
-  
-
 Na Ohři se nám stala zvláštní věc. Rybařil tam s námi Walda Freund z Podbořan a námořník Půhoný z Prahy. Ten námořník Půhoný plul předtím na našich zámořských lodích někde v Ósace a Tokiu a přivezl si krásné japonské pruty. Měl z nich takovou radost, že na ně téměř nechytal, jenom je měl stát u stanu a každému je ukazoval, kdo šel kolem. Byly to skutečně nádherné pruty, měly náhradní špičky a červené vázání, byly tenké jako sluneční paprsky, vycházející někde z Japonského moře.
 
 Seděl jsem celé hodiny u jeho stanu a cestoval jsem s ním, zajímavě mi vyprávěl o svých cestách, a já si přitom prohlížel ty pruty, zrovna tak jako když se bavíte a ještě přitom posloucháte hudbu. A v noci se mi dokonce o těch prutech zdálo, chytal jsem na ně v průsvitné modré řece veliké stříbrné ryby. A když se mi tak o nich jednou zdálo, probudil jsem se a posadil ve stanu. Pár kroků ode mne plynula tiše řeka. To je na stanu nejkrásnější, že si ho můžete postavit až přímo u řeky. Řeka vás večer uspává a ráno zase budí. Vykoukl jsem ven, byla noc, tmavá noc. Ve stanu jsem spal s Jirkou – Hugo spával v autě –, Jirka funěl, jemu se zřejmě zdálo o báječném guláši, který ten den Hugo vařil a měl šanci získat první flek za nejlepší jídlo, který jsme na konci týdne vždycky společně s kuchařskou medailí „Za zásluhy“ udělovali. Jirka prostě neměl tak lyrické sny jako já.

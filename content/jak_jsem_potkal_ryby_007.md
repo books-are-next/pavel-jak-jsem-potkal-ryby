@@ -3,8 +3,6 @@ title: Černá štika
 contentType: prose
 ---
 
-  
-
 Bylo mi kolem šesti. Bráškové mě do své společnosti moc nebrali. Nebyl jsem jich hoden. Přihlížel jsem jejich radovánkám zdálky. Většinou jsem si na břehu řeky Berounky jenom cucal prst. Nejraději chodil Hugo s Jirkou na ostrůvek, kde chytali do ruky ryby v zelených řasách. Hugo byl hezký a jemný. Jirka byl pořízek a lump, s kdekým se pral.
 
 Na ostrůvku rostly dlouhé, čarokrásné zelené řasy, které se podobaly rozpleteným vlasům říčního vodníka Oskara. Ty vlasy mu vlály po proudu, jako by ležel utopený v žlutém písku. Občas na řasách rostly kvítky, nevím už, jakou měly barvu, snad růžovobílou jako nevěsty. Bylo tu mělko a v řasách se pásly jak na louce buchanky a berušky vodní. Parmy s ostatními rybami sem přijížděly a čapaly po broučkách a mlaskaly přitom jak prasátka. V té době nastoupili bratři jen v trenýrkách a promakávali řasy, až sáhli na studené tělo ryby. Ryba strnula, pak vyrazila, bráška se vzpamatoval a skočil po ní, minul se, voda stříkala, bráška křičel. Jako rodeo.

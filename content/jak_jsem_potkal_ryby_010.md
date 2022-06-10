@@ -3,8 +3,6 @@ title: Pod Šímovic skálou
 contentType: prose
 ---
 
-  
-
 Tak utíkal čas. Dostal jsem svůj první naviják rolák a košilku jsem už nosil zastrčenou v kalhotách. Tatínek nám koupil anglickou merunu, stejnou, s jakou hrál londýnský Arsenal, to mužstvo slavných kanonýrů. Na plácku jsme s ní vybojovali četné bitvy a boje, až mi kluci jednou ráno vykloubili prst, a strejda Prošek ho dal zas jedním škubem zpátky.
 
 Ryb byla pořád plná řeka.
@@ -13,15 +11,21 @@ Maminka je balila do strouhanky a pekla na řízky a potom je vkládala do oct
 
 Radovánky nebraly konce, jako by celý život měl být karneval. Nad jezem se z řeky tyčila vysoká červenavá skála z opuky a té se říkalo Šímova. Snad proto, že ve vesnicích žilo plno Šímů. Jak jsme šli kolem té skály, tak jsme zpívali:
 
+  
+
 _U Šímovic skály,  
 dva trampové stáli,  
 že neměli co na práci,  
 na kytary hráli._
 
+  
+
 _Mcajcajcajcára,  
 mcajcajcajcára,  
 mcajcajcajcára,  
 juchy, juchy, juch._
+
+  
 
 Kolem Šímovic skály jsme chodili večer pod jez na parmy.
 

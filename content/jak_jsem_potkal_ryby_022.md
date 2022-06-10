@@ -3,8 +3,6 @@ title: Pumprdentlich
 contentType: prose
 ---
 
-  
-
 Náš tatínek na cestě světem zestaral a projevovalo se to i na rybách. Stále chtěl ulovit svou velikou životní rybu. Ale s velikými rybami je to složitý. Jak zaberou na slabý cajk, tak ho přetrhnou, a když je chytáme na silný cajk, tak většinou nezaberou. A pak je to většinou jako v životě: to, co moc chceme – toho nikdy nedosáhneme.
 
 Tatínkovi zabralo na přehradě u Skochovic asi pět sumců, lidově sumárů. Jeden ho dokonce táhl s loďkou na délku jednoho fotbalového hřiště. Pak mu to opět přetrhl.
@@ -41,10 +39,14 @@ Tatínek tomu nemohl zabránit, protože mnozí z nich byli sami rybáři a ch
 
 Na hliněných nohou opustili hospodu a s rykem a zpěvem se vydali k naší chatě „Herma“, aby přeměřili a převážili sumce z rodu velkých. Tatínek šel schlíple za nimi a oni bůhvíproč zpívali písničku o řeznících:
 
+  
+
 _Nejsou lepší řemeslníci  
 jako řezníci:  
 ráno vstane, jde do krámu,  
 drží sklenici._
+
+  
 
 V chatě přivítala deputaci naše drobná maminka Herma. Hned pochopila, o co jde, protože již znala svého muže dobře, žila s ním v jedné domácnosti velice dlouho. A také proto, že na ni tatínek vzadu zuřivě gestikuloval, aby něco podnikla. Rybář jménem Dušek škytl a pronesl proslov:
 
@@ -52,10 +54,14 @@ V chatě přivítala deputaci naše drobná maminka Herma. Hned pochopila, o c
 
 A uklonil se. Maminka bleskurychle domyslela, že ještě nejsou v tom stavu, aby viděli sumce, a pozvala je ke stolům do chaty a na verandu. Nedali se dlouho pobízet. Snesla jim všechno, co jsme doma měli. Uherský salám, nakládané ryby, salám šunkový, salám koňský točený, načala konzervy a láhve vína a dalšího alkoholu. Pomáhal jsem obsluhovat, tatínka nebylo vidět. Ta naše chata na skále, to brzy nebyla chata, ale parník na vzdutých vlnách. Houpala se, kývala se a zpívala:
 
+  
+
 _Pije táta, pije máma,  
 však se jim už běhá kráva,  
 pije táta, pijou děti,  
 už je kůže na teleti._
+
+  
 
 Jedli a popíjeli ještě asi hodinu, když maminka usoudila, že nastala pravá chvíle. Byli už ožralí, ale ještě nezvraceli. Teď byla ta doba, kdy mohli posoudit míru a váhu sumce z rodu velkých. Maminka pro jistotu vyšla ven s Duškem, který měl u rybářů autoritu, a něco mu šeptala. Dušek povídal:
 

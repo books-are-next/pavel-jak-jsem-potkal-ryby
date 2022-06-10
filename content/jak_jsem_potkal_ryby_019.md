@@ -3,8 +3,6 @@ title: "S\_ponorkou na ryby"
 contentType: prose
 ---
 
-  
-
 Toužil jsem aspoň jednou v životě chytat ryby na velkých řekách, na obrovských jezerech a mořích, která jsou velká už proto, že to jsou moře. Dlouho se mi nedařilo. Lovil jsem na americkém jezeře Lake Michigan u Chicaga, ale jen malé okouny, chytal jsem v Dněpru štiky, ale ty také nebyly velké. Člověk musí zřejmě každou zemi znát, musí poznat zvyky ryb a musí mít čas a peníze, zajet si anebo zaletět na velké ryby tisíce kilometrů daleko.
 
 Teprve v Polsku mi svitla naděje, že si zalovím na moři. Polská admiralita mě pozvala do vojenské ponorky. Radostně jsem pozvání přijal, ačkoliv jsem o tom neměl ani ponětí, a už vůbec jsem nevěděl, jestli se dají z ponorky lovit za jízdy ryby. Jako první jsem sbalil na podvodní cestu svůj pytlácký prut od pana Troníčka z Braníka. Byl ze čtyř krátkých dílů a dal se schovat pod kabát. Takové stahovací a skládací pruty se dnes dělají běžně, ale tenkrát to ještě byla vzácnost. Vybral jsem si také Heintzovy těžké stříbrné třpytky a hromadu cingrlátek a šidítek k oklamání mořských ryb. S prutem pod kabátem jsem nastoupil na motorový člun Siréna, který měl na boku velkou, nahatou mořskou pannu s šupinami na spodní partii těla.
@@ -85,10 +83,14 @@ Přesedl jsem zase na motorový člun Siréna s rybami, zatímco Sup vplouval p
 
 Začal si broukat:
 
+  
+
 _Celá flotila se směje,  
 že jim Kanec říkají,  
 ale za tím Kancem  
 plameny vždy šlehají._
+
+  
 
 Mlčel jsem. Kolikrát jsem se už v životě spletl. Ti nejskvělejší lidé jsou ti nejskromnější. To jenom hlupáci a ubožáci potřebují o sobě mluvit, aby sami ve svých očích vyrostli. Já jsem taky Romanowskému vyprávěl, jak jsem jednou hrdinně podlézal překážkovou dráhu v ohni slepých střel. To se tedy musel asi bavit.
 
