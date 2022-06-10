@@ -3,6 +3,8 @@ title: Jak jsme zahynuli na rybách
 contentType: prose
 ---
 
+<section>
+
 Při mnohem pozdější naší pánské jízdě jsme mířili do jižních Čech a tam je, jak víte, velká a modrá obloha a navlhlý vzduch. Nebyl jsem tam léta, jenom jsem o Lužnici a jižních Čechách snil, když jsem těžce onemocněl. Tehdy se mi Lužnice a jižní Čechy zdály vzdálené a nedostupné jako třebas Honolulu. Přitom jsem nikdy po Honolulu tak netoužil jako po jižních Čechách, protože mi v nich bylo vždy náramně, a připadalo mi to, že jsem u českýho moře, od kterého mám blízko k obloze.
 
 Všichni tři jsme tvrdili, že každý z nás musí chytit největší životní rybu.
@@ -100,3 +102,5 @@ Ožralýho kapra nikdo nechtěl. Připomínal by jim tuhle katastrofu, která se
 _„Já jsem ten kapr ze řeky Nežárky.“_
 
 Když tam doplul, vyprávěl ostatním kaprům, že byl v prima pojízdné hospodě, kde se čepovala zadarmo slivovice a taky rum.
+
+</section>

@@ -3,6 +3,8 @@ title: "Můžou tě i\_zabít"
 contentType: prose
 ---
 
+<section>
+
 V Buštěhradě byly rybníky dva. Oba rybníky dělila hráz a topoly a silnice. Nový rybník mě nikdy nelákal. Měl takové studené břehy, převážně z kamenů a cihel. Starý rybník byl jiný. Část břehů měl z husích trávníčků. Voněl potůčkem, který do něho přitékal kolem Opltovic hospody, a čpěl močůvkou, vytékající ze selských stavení. Voněl starými vrbami a bahnem, ve kterém si kapři vyvalovali pupky, a voněl pivem, které tu šumělo v blízkém pivovaru.
 
 Ve středu mé pozornosti plavali kapři, kteří sem byli nově vysazeni. Nemohl jsem zapomenout na křivoklátského okouna a bojovné parmy, které jsem kdysi chytal. Ryby mi pluly v krvi, chtěl jsem je zase lovit. Na Buštěhradě nebylo kde. Nikde neteče pořádný potok ani řeka. Jsou tu jen rybníky s výstrahami, že chytání ryb je zakázáno.
@@ -114,3 +116,5 @@ Kulhal jsem nahoru uličkou.
 A on se vydal dolů ke Starému rybníku. Švihal si přitom holí a pískal tu známou, krásnou německou píseň o Lily Marlén. Byla to opravdu krásná písnička, jenom na ní vadilo, že ji tolik milovali příslušníci SS.
 
 Šel jsem domů, kulhal jsem a prohlížel si Nový rybník. Kapři si teď navečer hráli při hladině a dělali na něm kola veliká jak kola od vozu anebo od trakaře. Tihle kapři budou na těsto s anýzem určitě brát. Jenom musím počkat pár dní, než nastanou tmavé noci.
+
+</section>

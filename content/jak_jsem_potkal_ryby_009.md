@@ -3,6 +3,8 @@ title: "Souboj o\_štiky"
 contentType: prose
 ---
 
+<section>
+
 Moji bratři mě konečně vzali do party. Chytali jsme nástražní rybičky, řízky, oficiálně se jmenovali hrouzci dlouhovousí. Ale my jsme té rybičce říkali řízek, stejně jako řízek na smažení. Je to pohledná rybička, má dva vousky modrovousky a je mramorovaná skoro jako mramor. Pánbůh se při tvoření na ní vydováděl. Ale je důvěřivá a hloupá.
 
 Při lovu řízků jsme v řece zviřovali nohama písek a bahýnko. Řízkové v tom kalu hledali potravu. Našli udičku se žížalkou. Udělali zob jako slepice, zatáhli za spláveček, my cukli, a řízečci se octli na světle božím. Někdy nám připluli až k nohám a klovali nás do prstů. Klof. Klof. Klof. My si čachtali nohy v chladné vodě a přitom jsme rybařili. Rybičky jsme dávali do plechovek a tatínek se strejdou Proš­kem na ně chytali štiky a další vodní kanibaly. Ale řízků bylo tehdy v řece málo. Strejda Prošek přišel na to, že štiky žerou v poslední době také okouny. Poznaly, jak lahodné maso má pichlavý okoun. Na jídelním lístku štik se ocitli okouni a nikdo o tom nevěděl.
@@ -34,3 +36,5 @@ Jak Béda připlul, vzal ho pod ruku a vedl ho k haltýři. V bedně se rýso
 Jenom zasípal:
 
 „Vy parchanti. Nějak jste nás podvedli.“ Tatínek mu večer pod akátem prozradil to tajemství s okouny a poradil mu, kam má ráno na štiky jet. Ten akát měl totiž takovou moc, že pod ním každý mluvil pravdu. Dokonce i rybáři.
+
+</section>

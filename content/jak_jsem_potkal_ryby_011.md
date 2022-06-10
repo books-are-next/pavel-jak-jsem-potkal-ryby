@@ -3,6 +3,8 @@ title: "Jak jsme s\_tatínkem servírovali úhořům"
 contentType: prose
 ---
 
+<section>
+
 Můj povedený tatínek mě jednou vzal pokládat šňůry. Vypracoval skvělý a hlavně smělý plán, jak zaručeně dostaneme úhoře. Položíme šňůry do tahu pod Palouk do větší hloubky. Naklademe návnadu do míst, kudy úhoři potáhnou proti proudu, a naservírujeme jim podle tatínka takovou hostinu, že se jí neubrání. Úhořů budeme mít tolik, že je dáme k řezníkovi vyudit. Tatínek mi řekl:
 
 „Uzení úhoři jsou ze všeho nejlepší. Ty můžeš jíst celý rok.“
@@ -58,3 +60,5 @@ Potácel jsem se pod křoví, abych si ulevil od strachu a od studené vody. Sl
 Seděl jsem na bobku a myslel jsem na to, že dnes jsme se zatím podělali my.
 
 Asi to bylo tím, že úhořům přišla na pomoc jejich matka – řeka.
+
+</section>

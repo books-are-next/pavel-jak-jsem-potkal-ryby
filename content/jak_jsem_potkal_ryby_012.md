@@ -3,6 +3,8 @@ title: Bílé hřiby
 contentType: prose
 ---
 
+<section>
+
 Šli jsme na roští. Křivoklátské lesy jsou hluboké, někteří lidé se v nich bojí. Každým okamžikem se mohou objevit na koních s luky zbojníci z Týřova. Hlavně tady jsme mohli potkat české udatné krále s jejich družinami. Poklona, pane králi, jsem z Luhu pod Bránovem. Prdelka mi říkají.
 
 Každou chvilku může člověk uslyšet lidský pláč anebo naříkání raněné zvěře. Může se objevit stádo divokých kanců anebo pověstný jelen s křížem mezi parohy.
@@ -11,25 +13,33 @@ Každou chvilku může člověk uslyšet lidský pláč anebo naříkání raně
 
 Scházeli jsme do údolí. Jirka se dal svým zvučným hlasem do zpěvu:
 
-  
+</section>
+
+<section>
 
 _Potkali mě myslivci,  
 vedli s sebou psy, psy, psy,  
 jeden dělal haf, haf, haf!  
 a ten druhej ňaf, ňaf, ňaf._
 
-  
+</section>
+
+<section>
 
 Při haf, haf, haf a zvláště při ňaf, ňaf, ňaf se všelijak natřásal a pitvořil. Přidali jsme se, byli jsme už na kraji lesa:
 
-  
+</section>
+
+<section>
 
 _Až já odtud povandruju,  
 dám si uzel na uzel:  
 to že jsem tě, má panenko,  
 tak brzičko omrzel._
 
-  
+</section>
+
+<section>
 
 Vtom zavolal Hugo:
 
@@ -65,7 +75,11 @@ Zacpal jsem si uši a běžel jsem dolů Luhem. Zdálo se mi, že i tady slyš
 
 A na těch oznámeních stálo napsáno:
 
-  
+</section>
+
+<section>
 
 UŽ SEM NIKDY NEPŘIJEDEM.  
 SKONČIL DĚTSKÝ KARNEVAL.
+
+</section>

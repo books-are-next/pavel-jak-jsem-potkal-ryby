@@ -3,6 +3,8 @@ title: Pod Šímovic skálou
 contentType: prose
 ---
 
+<section>
+
 Tak utíkal čas. Dostal jsem svůj první naviják rolák a košilku jsem už nosil zastrčenou v kalhotách. Tatínek nám koupil anglickou merunu, stejnou, s jakou hrál londýnský Arsenal, to mužstvo slavných kanonýrů. Na plácku jsme s ní vybojovali četné bitvy a boje, až mi kluci jednou ráno vykloubili prst, a strejda Prošek ho dal zas jedním škubem zpátky.
 
 Ryb byla pořád plná řeka.
@@ -11,21 +13,27 @@ Maminka je balila do strouhanky a pekla na řízky a potom je vkládala do oct
 
 Radovánky nebraly konce, jako by celý život měl být karneval. Nad jezem se z řeky tyčila vysoká červenavá skála z opuky a té se říkalo Šímova. Snad proto, že ve vesnicích žilo plno Šímů. Jak jsme šli kolem té skály, tak jsme zpívali:
 
-  
+</section>
+
+<section>
 
 _U Šímovic skály,  
 dva trampové stáli,  
 že neměli co na práci,  
 na kytary hráli._
 
-  
+</section>
+
+<section>
 
 _Mcajcajcajcára,  
 mcajcajcajcára,  
 mcajcajcajcára,  
 juchy, juchy, juch._
 
-  
+</section>
+
+<section>
 
 Kolem Šímovic skály jsme chodili večer pod jez na parmy.
 
@@ -44,3 +52,5 @@ Seděli jsme v hebké trávě a drželi pruty. Strejda první vytahoval parmic
 Potom zabrala parma mně. Nejdřív ťukla, neslo se to z vody zas jako volání z nesmírných vodních dálek. A pak jsem ucítil tah, jako když se na prut něco zachytí, třebas plovoucí vodní tráva. Přisekl jsem. Na konci udice byla parma. Její tělo vyplulo na hladinu řeky, právě když vše odhalil seshora měsíc. Bylo jak tavené stříbro anebo jak cínová konev, s jakou se nalévá víno z královských vinic. Statečná ryba. Nesmírně bojovala o život a stále chtěla jít do proudu. Cpala se do nejprudší vody tak, jako někteří odvážní lidé chtějí stále na moře. Drát byl jako z ocele. Rvali jsme se o každý centimetr. Nakonec podlehla, protože to byl zápas nerovných sil.
 
 Když jsem ji vytáhl do rosné trávy, hladil jsem ji jako psa nebo kočku. Ale měla tělo cizí, studené, rybí. A pak jsem ji hned probodl hlavu nožem, neboť i stateční platí někdy za chybu smrtí. Zabil jsem ji proto, že jsem to viděl u strejdy Proška a u tatínka, a oni to zase viděli u svých předků. Mocné ploutve jí poklesly a tělo, které se podobalo krásným stříbrným letadlům na dálkových tratích, vyhaslo.
+
+</section>

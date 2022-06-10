@@ -3,6 +3,8 @@ title: Žehlička
 contentType: prose
 ---
 
+<section>
+
 My bratři jsme taky trochu zestárli. Vypadaly nám první vlasy a objevily se vlasy bílé. Pryč byly doby, kdy jsme honili v řasách velkou černou štiku. Bráškové se vybouřili v mládí, oženili se, jak už to bývá, a vrátili se k rybám, což taky bývá. Jako by si uvědomili čínské přísloví:
 
 _Chceš-li být šťasten hodinu, tak se opij._
@@ -60,3 +62,5 @@ Já a Jirka jsme museli na vlak. Hugo se rozhodl, že Žehličku nemůže opust
 Každý den tam měla obchůzku mladá pošťačka a on s ní klábosil. Bavili se, třesky plesky, a bylo to zajímavý a krásný. Povídali si o počasí, o trávě, o hradu Týřově, o hříbkách a trilobitech.
 
 Až jednou se objevil na kopci velký náklaďák na odvážení nabouraných aut. Hugo ten náklaďák poznal. Byl z jeho fabriky. Vedle řidiče seděla jeho žena Ela, taky hadimrška. Naložili Žehličku, ale i stan, haltýř a také trilobity z dávných dob, které tu objevil už před mým bratrem Hugem slavný geolog a paleontolog Francouz Joachim Barrande před více než sto lety.
+
+</section>
