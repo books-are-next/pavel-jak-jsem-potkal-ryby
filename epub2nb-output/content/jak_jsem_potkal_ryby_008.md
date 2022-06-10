@@ -3,6 +3,8 @@ title: Moje první ryba
 contentType: prose
 ---
 
+<section>
+
 Prošek se vracel z hospůdky Anamo v náladě a prozpěvoval si vojenské písničky. Uměl jich mnoho, ve válce bojoval v Srbsku. V boku mu zůstala nevyndaná střepina, ale ta přestala zlobit, jakmile měl v sobě několik ostrých. Když dorazil s lodí k nám, dal vlčákovi Holanovi pusu na čenich a sedl si pod vonící akát.
 
 Byl jsem tehdy na přívoze, bráškové mě zase nevzali s sebou, vzali radši holku Dášu, dceru Bédi Peroutky, která mě velice přehlížela.
@@ -42,3 +44,5 @@ Vzal jsem stoličku na dojení a sedal jsem pod trofejí celé dny. Když šel 
 „Jsi opravdovej frajer.“
 
 Jednou v noci mi však trofej zmizela neznámo kam. Je možné, že ji sežrala kočka Andělka. Ale spíš je pravděpodobné, že ji sundal z vrat můj milovanej strejda Prošek. Měl už mého chlubivého počínání plné zuby a začínal jsem mu být zas protivnej.
+
+</section>

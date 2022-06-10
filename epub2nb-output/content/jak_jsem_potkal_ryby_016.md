@@ -3,6 +3,8 @@ title: "U\_Prošků po válce"
 contentType: prose
 ---
 
+<section>
+
 Po válce jsem se hned rozjel na Křivoklát. Doslova vyrazil. Nejdřív sám, s batohem a jedním prutem. Bydleli jsme zas v Praze, a tak jsem jel ze smíchovského nádraží vláčkem se špinavými okny. Plivl jsem na kapesník a udělal v okně čisté, kulaté okénko. Spatřil jsem řeku a chtělo se mi brečet.
 
 Díval jsem se na jarní vodu a věděl jsem, že tahle voda v Berounce, co teče tady, musela téci také nahoře podél Skryjí a pod loděmi strejdy Proška v Luhu. Řeka stejně jako oblaka plynula místy, kde nám bylo v životě dobře. Pozoroval jsem její proudy, její ryby, jak skákají na hladinu, mlýny na jezech a jezy na zadržených vodách. Mlynáře, co dosud mleli, a převozníky, kteří převáželi sem, tam. Viděl jsem po šesti letech zase řeku. Měl jsem tvář přimáčknutou na skle, aby mi nic neuniklo. Řeku jsem měl rád víc než cokoli na světě a styděl jsem se tehdy za to.
@@ -23,12 +25,16 @@ Výš už řeka jenom voní. Jako pomněnka. Jako stulík. Jako divoký kořen p
 
 Už se nezastavuji. Pospíchám, abych byl na přívoze v Luhu co nejdřív, jako bych chtěl všechno stihnout. Už minu jez. A Šímovic skálu.
 
-  
+</section>
+
+<section>
 
 _U Šímovic skály  
 dva trampové stáli._
 
-  
+</section>
+
+<section>
 
 Utíkám. Batoh mi skáče na zádech a dělá buch! buch! jako mé srdce. Po úzké pěšince kolem akátů nahoru k převoznické chalupě. Jen jestli neumřeli (to by poslali parte). A aby byli doma. Jen aby nebyli nemocní. A aby na mě nezapomněli. Jen aby mě poznali.
 
@@ -41,3 +47,5 @@ Sedím na zápraží a čekám. Brzy přijde s proutím strejda Prošek. Vrhnu
 Strejda Prošek mi naleje svou pověstnou bránovskou bramboračku. Uvnitř jsou hříbky a navrchu plave celerová nať. Pozoruje mě tiše a potom se zeptá:
 
 „Tak kam půjdeš na ryby?“
+
+</section>

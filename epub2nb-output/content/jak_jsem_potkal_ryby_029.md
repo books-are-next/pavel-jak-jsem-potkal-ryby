@@ -3,6 +3,8 @@ title: Zlatí úhoři
 contentType: prose
 ---
 
+<section>
+
 Jednou jsem přivezl z Amsterodamu svazeček uzených úhoříků. Byli tencí jak raný chřest anebo vrbové proutky, a jelikož byli mladí, byli zlatí. Vzal jsem stužku a převázal s ní úhoříky. Koho jsem měl rád, tomu jsem pak podal zlatého úhoře. Na koho se nedostalo, ten nedostal nic.
 
 Uzeným úhořům jsme vždycky říkali doma zlatí, přestože nikdy takoví nebyli. Když byli velcí a prošli pecí, dostali barvu temných nocí a hlubokého mořského dna.
@@ -165,7 +167,9 @@ Tatínek přinesl dlouhý pergamen, který opálil svíčkou jak v nočním bar
 
 Prosím:
 
-  
+</section>
+
+<section>
 
 _Anglická paštika z úhoře_
 
@@ -251,7 +255,9 @@ _Úhoř Villeroi_
 
 _Zadělávaný úhoř_
 
-  
+</section>
+
+<section>
 
 Tak a konečně jsem pochopil, proč plavou úhoři v noci a ještě po samém dně. Mají na ně spadeno nejlepší kuchaři a labužníci celého světa. Někdy za ně platí i zlatem.
 
@@ -284,3 +290,5 @@ Naznačil jsem pohřebnímu majstrovi, že když to pro mě udělá, nebude to z
 Za čas mi dózu vrátil a já jsem s ní šel k tátově nejmilejší řece Berounce. Vál lehký větřík a po silnici běhal jezevčík Ferda a čapíroval uši. Jinak tam nikdo nebyl. Sedl jsem si na bobek u tůně, kde chytil táta nejvíc úhořů. Vyndal jsem dózu s růží a vysypal tu drobítku na rozhraní tišiny a proudu. Některá zrnka se potopila na dno řeky, některá plavala dál. Přál jsem si, aby ho řeka zanesla do krásných a teplých moří, aby mu nikdy nebyla zima, tak jako je někdy zima lidem na této planetě, která se točí jak barevný kolotoč pořád dokola.
 
 Zvednu hlavu a spatřím pár velkých ptáků, bílých labutí. Mávají křídly a letí k zbraslavskému zámku, v němž se slzy, smích a lidé změnili v sochy.
+
+</section>

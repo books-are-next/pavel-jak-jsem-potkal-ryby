@@ -3,6 +3,8 @@ title: Malý pstruh
 contentType: prose
 ---
 
+<section>
+
 Na ryby jsem šel na Skřivaňský potok. Sem jsme už jezdili v době, kdy jsem se vozil v bílém kočárku a přitom cucal dudlík. Na tom krásném potoce se kdysi usídlil bezvadný chlap, Jarka Franěk se svou ženou. Býval rozvědčíkem v Indočíně, v Anamu. A když se vrátil, tak tu na rozcestí šedivých silnic pod Nezabudicemi postavil dřevěný stánek s pivem, rumem a žlutou limonádou a nazval jej Anamo. Natřel ho na hnědo a o kus dál na potoce postavil zděnou restauraci U rozvědčíka. Celý život zůstal srdcem rozvědčíkem, až mu Němci to srdce zabili za války ve věznici Plötzensee.
 
 Ta paní na balkóně je jeho žena. Paní Fraňková, statečná. Je štíhlá a vlasy má havraní. Když ho Němci odváželi, řekl jí na rozloučenou:
@@ -60,3 +62,5 @@ A poprvé v životě mě napadlo:
 Zahanben jsem utíkal dál jako zloděj, který ví, že bude znovu krást, protože to chutná.
 
 U řeky jsem se svlékl a plaval jsem, abych se očistil jako hříšní v té indické řece Gangu. Na všechno jsem přestal myslet. Protože řeka je jiná než potok. Řeka je hluboká studna zapomnění.
+
+</section>

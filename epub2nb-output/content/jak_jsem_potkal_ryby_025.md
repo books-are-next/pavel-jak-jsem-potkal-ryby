@@ -3,6 +3,8 @@ title: Zloděj prutů
 contentType: prose
 ---
 
+<section>
+
 Na Ohři se nám stala zvláštní věc. Rybařil tam s námi Walda Freund z Podbořan a námořník Půhoný z Prahy. Ten námořník Půhoný plul předtím na našich zámořských lodích někde v Ósace a Tokiu a přivezl si krásné japonské pruty. Měl z nich takovou radost, že na ně téměř nechytal, jenom je měl stát u stanu a každému je ukazoval, kdo šel kolem. Byly to skutečně nádherné pruty, měly náhradní špičky a červené vázání, byly tenké jako sluneční paprsky, vycházející někde z Japonského moře.
 
 Seděl jsem celé hodiny u jeho stanu a cestoval jsem s ním, zajímavě mi vyprávěl o svých cestách, a já si přitom prohlížel ty pruty, zrovna tak jako když se bavíte a ještě přitom posloucháte hudbu. A v noci se mi dokonce o těch prutech zdálo, chytal jsem na ně v průsvitné modré řece veliké stříbrné ryby. A když se mi tak o nich jednou zdálo, probudil jsem se a posadil ve stanu. Pár kroků ode mne plynula tiše řeka. To je na stanu nejkrásnější, že si ho můžete postavit až přímo u řeky. Řeka vás večer uspává a ráno zase budí. Vykoukl jsem ven, byla noc, tmavá noc. Ve stanu jsem spal s Jirkou – Hugo spával v autě –, Jirka funěl, jemu se zřejmě zdálo o báječném guláši, který ten den Hugo vařil a měl šanci získat první flek za nejlepší jídlo, který jsme na konci týdne vždycky společně s kuchařskou medailí „Za zásluhy“ udělovali. Jirka prostě neměl tak lyrické sny jako já.
@@ -37,10 +39,14 @@ Příští den byl takový smutný, jako by tu rybařinu někdo pošpinil, nechy
 
 To není pohádka o ušlechtilém zloději a mém statečném bratru. To je pravda. Pana Půhoného se na to můžete zeptat, jestli ovšem se zrovna neplaví u Ósaky a Tokia. A na ten jeden japonský prut se můžete ke mně přijít podívat, pan Půhoný mi ho dal na památku. Chytám na něj, častěji se však na něj dívám, hraju si na gramesu Američana Franka Sinatru s písničkou „I love Paris“ a přemýšlím o člověku. A v noci se mi zdá, že chytám zas na modré řece na ten japonský prut stříbrné ryby a za parťáka mám toho „zloděje“. Chtěl bych ho poznat, ale to se mi už nikdy nesplní. Zeptal bych se ho, proč ty pruty vlastně tenkrát přinesl zpátky. A taky bych mu rád půjčil svůj prut, anebo dokonce daroval, aby si na něj taky jednou pořádně zachytal. A ne jen jednu noc…
 
-  
+</section>
+
+<section>
 
 A pak už jsem takhle na ryby s brášky dlouho nejel. Horoskop vyšel. Zbláznil jsem se já a pět let jsem strávil v ústavu pro duševně choré.
 
 _Ryby tam nejsou._
 
 _Jen králové, císaři, Napoleoni, Kristové, Afrodity, kněžny Libuše a Panny Orleánské._
+
+</section>

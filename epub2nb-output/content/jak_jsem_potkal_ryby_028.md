@@ -3,6 +3,8 @@ title: Boty Made in Italy
 contentType: prose
 ---
 
+<section>
+
 Já měl Emila moc rád a dlouho jsem mu sliboval, že ho vezmu na úhoře. Vzít někoho na úhoře, to znamenalo řetěz tajuplných zážitků. Lov v noci, neznámí dravci, o nichž tak málo víme, vynikající maso pro Emilka a jeho ženu. Emila jsem dlouho připravoval, asi jako kdybych ho měl vzít raketou na Měsíc.
 
 „Emile, ve čtvrtek fičíme,“ oznamoval jsem mu tajně a důvěrně, aby se k nám nepřifařil ještě nějaký známý. Chtěl jsem být s Emilem sám.
@@ -66,3 +68,5 @@ Míjela nás auta a někteří sváteční řidiči troubili a kleli:
 A on jel dál stále stejně klidně, citlivě mačkal pedály, spíš jsme pluli, než jeli. Byl za války řidičem transportéru a řidičem džípu. V tankových bitvách se s kamarády prodral Ardenami, postupoval proti nejhrozivějším fašistickým tygrům. Viděl už tolik mrtvých, že by se nedali naskládat na tuhle bílou mírovou silnici. Věděl, že ti, co ho předjíždějí, jej považují za poseroutku, jízlivě se šklebí a přitom mnozí z nich sami moc dobře řídit neumějí. A taky se bál. Bál se, aby je o kus dál nenašel na stromě nebo patníku s rozbitými hlavami a přeraženými údy. Přál si být aspoň pro dnešek vzdálen bílým fáčům, krvi, pláči a nesmyslné smrti.
 
 Chtěl mít v paměti jen tu dnešní úhoří noc, ohýnek, který voněl po bílých akátech a klukovských létech.
+
+</section>

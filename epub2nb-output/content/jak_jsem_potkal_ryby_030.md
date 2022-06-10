@@ -3,6 +3,8 @@ title: Epilog
 contentType: prose
 ---
 
+<section>
+
 Zbláznil jsem se na zimní olympiádě v Innsbrucku. Zatáhl se mi mozek, jako kdyby přišla mlha z Alp. Potkal jsem tam jednoho pána a pro mě to byl čert se vším všudy, měl kopyta, chlupy a rohy a staleté vykotlané zuby. Šel jsem pak zapálit do hor nad Innsbruck selské stavení. Přál jsem si, aby se rozsvítilo velké světlo a zahnalo mlhu. Když jsem vyváděl krávy a hřebce z chléva, aby neuhořeli, dorazila rakouská policie. Dali mi želízka a vedli mě do údolí. Nadával jsem jim, strhl jsem si boty a šel jsem sněhem bos jako Kristus, kterého vedou na kříž.
 
 Poslali mě přes Dvořiště pražským lékařům.
@@ -24,3 +26,5 @@ Když jsem někdy seděl u zamřížovaného okna a takhle ve vzpomínkách ry
 Konečně jsem došel k tomu pravému slovu: svoboda. Rybařina je především svoboda. Jít celé kilometry za pstruhy, pít vodu ze studánek, být sám a svobodný aspoň na hodinu, na dny, anebo dokonce na týdny a měsíce. Svobodný od televize, novin, rádia a civilizace.
 
 Chtěl jsem se stokrát zabít, když už jsem nemohl dál, ale nikdy jsem to neudělal. Snad jsem v podvědomí toužil ještě jedinkrát políbit na rty řeku a chytat stříbrné ryby. To rybařina mě naučila trpělivosti a vzpomínky mi pomáhaly žít.
+
+</section>

@@ -3,6 +3,8 @@ title: Přijeď, báječně si zachytáš!
 contentType: prose
 ---
 
+<section>
+
 Bratr Hugo mi telefonoval: „Přijeď, báječně si zachytáš!“ Přestože pršelo, přemluvil jsem ženu, abychom za ním jeli do Zbečna na Berounku, i když jsem věděl, že je tam ryb málo. Mým hlavním argumentem proti ženě, proti větru a proti dešti bylo, že si konečně skvěle zachytáme a k večeři budou čerstvé ryby.
 
 „Možná kapříček, snad štika, dokonce candát!“
@@ -24,3 +26,5 @@ Pak mu povídám:
 „Půjč mi prut!“
 
 A sednu si vedle něho a začínám chytat. Řízky. Jíst se nedají, nakládat se nedají, olejovky se z nich také dělat nedají, řízky se z nich už vůbec nedají usmažit. A také synové Jan, Petr a Jirka si sednou vedle mě a chytají řízky. Nějak nám už nevadí, že to nejsou velké ryby. Jediný, komu to bude vadit, je má žena. Jí ráda ryby vařené po francouzsku. Štiku pečenou v pergamenu anebo kapra protkaného špekem. Každou chvilku vykoukne na verandě chaty a dychtivě, s nadějí mává bílým kapesníkem. Ale to se ukrutně mýlí, že dneska budou ryby. Ostatně se už zmýlila víckrát, co mě má za muže. Sedíme na židličkách, chytáme řízky a chechtáme se, bavíme se líp než v parku oddechu a kultury. Rybičky zas pouštíme zpátky do řeky, aby žily a radovaly se, a jen občas tu větší, která si toho v mokrým světě dost naplavala, hodíme pro potěšení voříškovi, který se vlastně jmenuje Carda. A Carda se taky usmívá. Kdyby sem teď někdo přišel, řekl by, že jsme blázni. A vůbec by se nemýlil.
+
+</section>
