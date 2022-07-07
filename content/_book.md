@@ -41,7 +41,7 @@ readingOrder:
   - jak_jsem_potkal_ryby_028.html
   - jak_jsem_potkal_ryby_029.html
   - jak_jsem_potkal_ryby_030.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
