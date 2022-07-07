@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "pavel-jak-jsem-potkal-ryby-243aadd",
-  "revision": "243aadd",
+  "identifier": "pavel-jak-jsem-potkal-ryby-da96b3d",
+  "revision": "da96b3d",
   "readingOrder": [
     "promo.html",
     "jak_jsem_potkal_ryby_005.html",
@@ -38,11 +38,11 @@
     "jak_jsem_potkal_ryby_028.html",
     "jak_jsem_potkal_ryby_029.html",
     "jak_jsem_potkal_ryby_030.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:20:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979606141
+    "date": "Thu Jul 07 2022 08:35:29 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182929751
   },
   "documents": [
     {
@@ -231,7 +231,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Můžou tě i zabít",
+          "name": "Můžou tě i zabít",
           "id": null,
           "children": []
         }
@@ -291,7 +291,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "U Prošků po válce",
+          "name": "U Prošků po válce",
           "id": null,
           "children": []
         }
@@ -351,7 +351,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "S ponorkou na ryby",
+          "name": "S ponorkou na ryby",
           "id": null,
           "children": []
         }
@@ -451,7 +451,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Přijeď, báječně si zachytáš!",
+          "name": "Přijeď, báječně si zachytáš!",
           "id": null,
           "children": []
         }
@@ -491,7 +491,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak jsme zahynuli na rybách",
+          "name": "Jak jsme zahynuli na rybách",
           "id": null,
           "children": []
         }
@@ -511,7 +511,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak jsme nezahynuli na rybách",
+          "name": "Jak jsme nezahynuli na rybách",
           "id": null,
           "children": []
         }
@@ -531,7 +531,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Boty Made in Italy",
+          "name": "Boty Made in Italy",
           "id": null,
           "children": []
         }
@@ -566,7 +566,7 @@
       "role": "chapter",
       "order": 26,
       "prev": "jak_jsem_potkal_ryby_029.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -579,11 +579,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 137,
-      "chars": 866,
+      "chars": 865,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "jak_jsem_potkal_ryby_030.html",
       "next": null,
@@ -601,7 +601,7 @@
   "totals": {
     "all": {
       "words": 31768,
-      "chars": 181366,
+      "chars": 181365,
       "ideas": 931
     },
     "chapters": {
