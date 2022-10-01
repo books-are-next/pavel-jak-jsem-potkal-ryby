@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "pavel-jak-jsem-potkal-ryby-449c1ca",
-  "revision": "449c1ca",
+  "identifier": "pavel-jak-jsem-potkal-ryby-be94c41",
+  "revision": "be94c41",
   "readingOrder": [
     "promo.html",
     "jak_jsem_potkal_ryby_005.html",
@@ -41,8 +41,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:35:26 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414126125
+    "date": "Sat Oct 01 2022 15:53:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639590837
   },
   "documents": [
     {
