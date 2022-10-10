@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "pavel-jak-jsem-potkal-ryby-b774c3a",
-  "revision": "b774c3a",
+  "identifier": "pavel-jak-jsem-potkal-ryby-125ff8b",
+  "revision": "125ff8b",
   "readingOrder": [
     "promo.html",
     "jak_jsem_potkal_ryby_005.html",
@@ -41,8 +41,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:06:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151596976
+    "date": "Mon Oct 10 2022 15:58:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417508406
   },
   "documents": [
     {
@@ -581,7 +581,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 137,
-      "chars": 866,
+      "chars": 867,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -601,7 +601,7 @@
   "totals": {
     "all": {
       "words": 31768,
-      "chars": 181366,
+      "chars": 181367,
       "ideas": 931
     },
     "chapters": {
